@@ -1,5 +1,7 @@
 Building on top of Squads on Solana
 
+Resource - https://hyperdrive.squads.so
+
 how this platform should work is that there is a governance token
 
 And people can make certain proposals(which would then be added as a proposal to a Squad Multisig and signed by a PDA)
